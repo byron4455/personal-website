@@ -22,7 +22,7 @@ projects:
   #   - pushed
   #   - stars
   limit: 9
-  exclude: "Hello_World2"
+  exclude: 
     archived: false
     forks: true
     projects:
