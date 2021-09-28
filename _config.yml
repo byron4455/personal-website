@@ -5,7 +5,7 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
- [inline-style link](https://byron4455.github.io/personal-website/resume)
+[inline-style link](https://byron4455.github.io/personal-website/resume)
 
 permalink: /:year/:month/:day/:title/
 
