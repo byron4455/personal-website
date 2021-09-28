@@ -22,7 +22,7 @@ projects:
   #   - pushed
   #   - stars
   limit: 9
-  exclude: Hello_World2, atom-clock, hello-world, website, Byron4455, WebsiteV1
+  exclude: "Hello_World2", "atom-clock", "hello-world", "website", "Byron4455", "WebsiteV1"
     archived: false
     forks: true
     projects:
